@@ -1,1 +1,3 @@
-Daniel Sanborn, # Heading #
+Daniel Sanborn
+# Heading #
+
